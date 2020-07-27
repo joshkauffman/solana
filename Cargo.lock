@@ -4689,6 +4689,7 @@ dependencies = [
  "bv",
  "byteorder",
  "chrono",
+ "curve25519-dalek",
  "ed25519-dalek",
  "generic-array 0.14.2",
  "hex 0.4.2",
